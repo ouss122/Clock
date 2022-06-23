@@ -2,7 +2,7 @@
 Analog Clock made with Javascript
 
 # Demo 
-(https://ouss122.github.io/Clock/)[Clock]
+[Clock](https://ouss122.github.io/Clock/)
 
 # Credits
-Big Thanks to (https://www.youtube.com/c/OnlineTutorials4Designers)[Online Tutorials] : (https://youtu.be/weZFfrjF-k4)[Javascript Clock]
+Big Thanks to [Online Tutorials](https://www.youtube.com/c/OnlineTutorials4Designers) : [Javascript Clock](https://youtu.be/weZFfrjF-k4)
