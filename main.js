@@ -6,7 +6,7 @@ let dark = document.querySelector('.dark');
 let container=document.querySelector('.container');
 let clock=document.querySelector('.clock');
 let Clock= new Audio('./assets/Clock.mp3');
-Clock.volume=0.2;
+Clock.volume=0.1;
 function getHour(){
     let d;
     if (dateNow.getHours()===0) {
